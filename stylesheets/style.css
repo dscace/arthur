@@ -1,0 +1,38 @@
+body {
+	background: url("../img/coreytrevor.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	background-color: gray;
+}
+
+nav, footer, h2 {
+	font-family: 'Rakkas', cursive;
+}
+
+.navbar-brand {
+	font-size: 300%;
+}
+
+#contact {
+	font-size: 125%;
+}
+
+.jumbotron {
+   background: rgba(255, 255, 255, 0.8); 
+   text-align: center;
+   font-family: 'Helvetica', sans-serif;
+   margin-top: 50px;
+   padding-top: .5px;
+}
+
+footer.page-footer {
+	text-align: center;
+	font-size: 150%;
+}
+
+.list-unstyled p {
+	font-size: 12px;
+}
+
+.list-unstyled a {
+	font-size: 20px;
+}
