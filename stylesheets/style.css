@@ -1,6 +1,5 @@
 body {
-/*	background: url("../img/coreytrevor.jpg") no-repeat center center fixed; 
-*/	background-size: cover;
+	background-size: cover;
 	background-color: black;
 }
 
@@ -28,13 +27,17 @@ footer.page-footer {
 	text-align: center;
 	font-size: 150%;
 }
-
+/*
 .list-unstyled p {
 	font-size: 12px;
 }
 
 .list-unstyled a {
 	font-size: 20px;
-}
+}*/
 
+.tooltip-inner {
+    white-space:pre;
+    max-width: none;
+}
 
