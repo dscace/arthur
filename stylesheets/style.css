@@ -8,11 +8,11 @@ nav, footer, h2 {
 }
 
 .navbar-brand {
-	font-size: 300%;
+	font-size: 45px;
 }
 
 #contact {
-	font-size: 125%;
+	font-size: 18px;
 }
 
 .jumbotron {
@@ -25,16 +25,8 @@ nav, footer, h2 {
 
 footer.page-footer {
 	text-align: center;
-	font-size: 150%;
+	font-size: 18px;
 }
-
-/*.list-unstyled p {
-	font-size: 12px;
-}*/
-
-/*.list-unstyled a {
-	font-size: 20px;
-}*/
 
 .tooltip-inner {
     white-space:pre;
@@ -59,4 +51,13 @@ footer.page-footer {
 		display: inline;
 		}}
 
+.news-container {
+	text-align: center;
+	color: rgba(255, 255, 255, 0.7);
+	margin-top: 15px;
+}
+
+.news-container .row {
+	font-size: 18px;
+}
 
