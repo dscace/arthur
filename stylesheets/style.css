@@ -11,6 +11,10 @@ nav, footer, h2 {
 	font-size: 45px;
 }
 
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
 #contact {
 	font-size: 18px;
 }
